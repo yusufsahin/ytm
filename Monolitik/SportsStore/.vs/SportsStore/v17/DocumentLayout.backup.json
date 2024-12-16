@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\bal\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\bal\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\bal\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\bal\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\dal\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\dal\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\dal\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\dal\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\dal\\sportsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\dal\\sportsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|c:\\projects\\ytm\\monolitik\\sportsstore\\sportsstore\\sportsstore.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BBA56798-D5D7-46AB-9ACD-AD7A73BE0410}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\sportsstore.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SportsStore\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:08:36.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "SportsStore\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:55:49.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\BAL\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "SportsStore\\BAL\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\BAL\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "SportsStore\\BAL\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:54:16.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\BAL\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "SportsStore\\BAL\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\BAL\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "SportsStore\\BAL\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:53:58.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SportsStoreDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\DAL\\SportsStoreDBContext.cs",
+              "RelativeDocumentMoniker": "SportsStore\\DAL\\SportsStoreDBContext.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\DAL\\SportsStoreDBContext.cs",
+              "RelativeToolTip": "SportsStore\\DAL\\SportsStoreDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:50:58.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\DAL\\Concrete\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\DAL\\Concrete\\ProductRepository.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\DAL\\Concrete\\ProductRepository.cs",
+              "RelativeToolTip": "SportsStore\\DAL\\Concrete\\ProductRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:48:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\DAL\\Abstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\DAL\\Abstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\DAL\\Abstract\\IProductRepository.cs",
+              "RelativeToolTip": "SportsStore\\DAL\\Abstract\\IProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:45:55.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Models\\Product.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:39:48.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SportsStore\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\appsettings.Development.json",
+              "RelativeToolTip": "SportsStore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T12:35:44.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SportsStore.http",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\SportsStore.http",
+              "RelativeDocumentMoniker": "SportsStore\\SportsStore.http",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\SportsStore.http",
+              "RelativeToolTip": "SportsStore\\SportsStore.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-16T12:35:42.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SportsStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\YTM\\Monolitik\\SportsStore\\SportsStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SportsStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T12:34:04.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
