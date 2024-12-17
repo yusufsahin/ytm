@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Storium.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc45abcb7527865832e4bc8f1c2bdd109411ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9f4905651b23078721cf57eabc1b7bcc7efbd5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Storium.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Storium.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

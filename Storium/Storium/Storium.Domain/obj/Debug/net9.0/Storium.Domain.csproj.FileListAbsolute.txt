@@ -1,0 +1,5 @@
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.AssemblyInfoInputs.cache
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.AssemblyInfo.cs
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.sourcelink.json
