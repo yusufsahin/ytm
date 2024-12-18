@@ -6,4 +6,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Orders\" />
+    <Folder Include="Features\Users\" />
+    <Folder Include="Features\Products\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Storium.Domain\Storium.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

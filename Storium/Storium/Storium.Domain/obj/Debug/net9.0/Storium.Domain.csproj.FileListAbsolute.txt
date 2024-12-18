@@ -1,5 +1,12 @@
+C:\Projects\YTM\Storium\Storium\Storium.Domain\bin\Debug\net9.0\Storium.Domain.deps.json
+C:\Projects\YTM\Storium\Storium\Storium.Domain\bin\Debug\net9.0\Storium.Domain.dll
+C:\Projects\YTM\Storium\Storium\Storium.Domain\bin\Debug\net9.0\Storium.Domain.pdb
 C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.AssemblyInfoInputs.cache
 C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.AssemblyInfo.cs
 C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.csproj.CoreCompileInputs.cache
 C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.sourcelink.json
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.dll
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\refint\Storium.Domain.dll
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\Storium.Domain.pdb
+C:\Projects\YTM\Storium\Storium\Storium.Domain\obj\Debug\net9.0\ref\Storium.Domain.dll

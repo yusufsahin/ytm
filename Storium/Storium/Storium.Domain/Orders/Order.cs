@@ -5,21 +5,25 @@ namespace Storium.Domain.Orders
 {
     public sealed class Order : Entity
     {
-        public string OrderNumber { get; private set; }
-        public DateTime DateTime { get; private set; }
-        public OrderStatusEnum Status { get; private set; }
+        private Order(Guid id) : base(id)
+        {
+        }
 
-        public Order(Guid id, string orderNumber, DateTime dateTime, OrderStatusEnum status) : base(id)
+        public Order(Guid id, string orderNumber, DateTime createdDate, OrderStatusEnum status) : base(id)
         {
             OrderNumber = orderNumber;
-            DateTime = dateTime;
+            CreatedDate = createdDate;
             Status = status;
         }
 
-        public ICollection<OrderLine> OrderLines { get; private set; }= new List<OrderLine>();
-        public Order(Guid id) : base(id)
-        {
-        }
+        public string OrderNumber { get; private set; }
+        public DateTime CreatedDate { get; private set; }
+        public OrderStatusEnum Status { get; private set; }
+
+        public ICollection<OrderLine> OrderLines { get; private set; } = new List<OrderLine>();
+
+        //CreateOrder
+
         public void CreateOrder(List<CreateOrderDto> createOrderDtos)
         {
             foreach (var item in createOrderDtos)
@@ -52,7 +56,5 @@ namespace Storium.Domain.Orders
             }
             OrderLines.Remove(orderLine);
         }
-
-
     }
 }

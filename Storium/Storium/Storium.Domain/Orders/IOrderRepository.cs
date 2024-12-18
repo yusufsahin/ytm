@@ -8,7 +8,10 @@ namespace Storium.Domain.Orders
 {
     public interface IOrderRepository
     {
-        Task<List<Order>> GetAllAsync(CancellationToken cancellationToken = default);
-        Task CreateAsync(List<CreateOrderDto> createOrderDtos, CancellationToken cancellationToken = default);
+        public interface IOrderRepository
+        {
+            Task<Order> CreateAsync(List<CreateOrderDto> createOrderDtos, CancellationToken cancellationToken = default);
+            Task<List<Order>> GetAllAsync(CancellationToken cancellationToken = default);
+        }
     }
 }

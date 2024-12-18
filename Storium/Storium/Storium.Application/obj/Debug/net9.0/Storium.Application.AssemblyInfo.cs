@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Storium.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc45abcb7527865832e4bc8f1c2bdd109411ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ac8486b3b9c57abc8dfddb00dbf668591e8011")]
 [assembly: System.Reflection.AssemblyProductAttribute("Storium.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Storium.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
